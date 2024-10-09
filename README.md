@@ -2,7 +2,7 @@
 
 # Azure AI Certification Preparation
 
-<a href="AI-900.md" style="margin-right: 20px;"><img src="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-ai-fundamentals" alt="Azure AI Fundamentals" width="200" height="200"></a>
+<a href="AI-900.md" style="margin-right: 20px;"><img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" width="200" height="200"></a>
 <!-- <a href="GitHub Advanced Security.md" style="margin-right: 20px;"><img src="https://github.com/romanrabodzei/romanrabodzei/blob/main/github-advanced-security.png" alt="GitHub Advanced Security" width="200" height="200"></a> -->
 </div>
 
